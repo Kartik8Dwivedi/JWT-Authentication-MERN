@@ -37,7 +37,7 @@ Before setting up the project, ensure you have the following installed:
 ### Installation
 1. Clone the repository to your local machine using the following command:
       ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone [https://github.com/your-username/your-repo.git](https://github.com/Kartik8Dwivedi/JWT-Authentication-MERN.git)
       
 2. Navigate to the project directory:
      ```bash
