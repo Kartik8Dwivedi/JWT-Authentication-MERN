@@ -88,7 +88,7 @@ We welcome contributions to improve this JWT Authentication System. If you encou
 
 Thank you for checking out our JWT Authentication System! If you find this project helpful or have any questions, please don't hesitate to get in touch.
 
-Happy coding! 🚀
+Happy coding! 🚀🚀
 
 
 
